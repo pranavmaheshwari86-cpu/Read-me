@@ -90,29 +90,31 @@
 
 ---
 
-## 📌 Featured Expertise
+## 📊 GitHub Stats
 
-```python
-class PranavMaheshwari:
-    def __init__(self):
-        self.role = "AI Engineer & Full Stack Developer"
-        self.skills = [
-            "Python",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "AI Agents",
-            "Full Stack Development",
-            "APIs",
-            "Automation",
-            "SQL",
-            "GitHub"
-        ]
-        self.current_focus = [
-            "Agentic AI",
-            "JARVIS-like AI Assistant",
-            "AI + Web Integration",
-            "Smart Automation Systems"
-        ]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavmaheshwari86-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmaheshwari86-cpu&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+</p>
 
-    def say_hi(self):
-        return "Thanks for visiting my GitHub profile!"
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranavmaheshwari86-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmaheshwari86-cpu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavmaheshwari86-cpu/pranavmaheshwari86-cpu/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
