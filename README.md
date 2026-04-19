@@ -109,6 +109,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmaheshwari86-cpu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmaheshwari86-cpu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🐍 Snake Animation
@@ -117,4 +126,3 @@
   <img src="https://raw.githubusercontent.com/pranavmaheshwari86-cpu/pranavmaheshwari86-cpu/output/snake.svg" alt="Snake animation" />
 </p>
 
----
